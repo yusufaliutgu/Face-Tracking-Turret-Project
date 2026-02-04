@@ -7,7 +7,7 @@
 Bu proje, Python (OpenCV) ile görüntü işleme ve Arduino ile motor kontrolünü birleştiren bir savunma sanayi prototip çalışmasıdır. Bilgisayar kamerasından alınan görüntü işlenir ve taretin namlusu (lazer), algılanan yüzü otomatik olarak takip eder. Görünüm itibari ile doğada gizlenmiş bir gözetleme kulesi havası verildi.
 ## 🛠️ Kullanılan Teknolojiler ve Malzemeler
 * **Yazılım**: Python 3.x, OpenCV, cvzone (MediaPipe tabanlı), Arduino C++
-* **Donanım:** Arduino UNO, 2x Servo Motor (SG90), Lazer Modülü
+* **Donanım:** Arduino UNO, 2x Servo Motor (SG90), 1 adet Lazer, 4'lü Pil kutusu
 * **Mekanik:** Doğal kütük taban, el yapımı mukavva zırh ve gerçekçi görüntü için doğadan yaprak ve ot.
 
 ## 🚀 Nasıl Çalışır?
