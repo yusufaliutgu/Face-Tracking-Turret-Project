@@ -1,5 +1,7 @@
 # DIY Face Tracking Turret (El Yapımı Yüz Takip Tareti)
-[Proje Görseli](WhatsApp%20Image%202026-02-04%20at%2017.35.53.jpeg)
+
+![Proje Görseli](WhatsApp%20Image%202026-02-04%20at%2017.35.53.jpeg)
+
 Bu proje, Python (OpenCV) ile görüntü işleme ve Arduino ile motor kontrolünü birleştiren bir savunma sanayi prototip çalışmasıdır. Bilgisayar kamerasından alınan görüntü işlenir ve taretin namlusu (lazer), algılanan yüzü otomatik olarak takip eder. Görünüm itibari ile doğada gizlenmiş bir gözetleme kulesi havası verildi.
 ## 🛠️ Kullanılan Teknolojiler ve Malzemeler
 * **Yazılım**: Python 3.x, OpenCV, cvzone (MediaPipe tabanlı), Arduino C++
