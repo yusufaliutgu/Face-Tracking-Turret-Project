@@ -4,7 +4,7 @@ Bu proje, Python (OpenCV) ile görüntü işleme ve Arduino ile motor kontrolün
 ## 🛠️ Kullanılan Teknolojiler ve Malzemeler
 * **Yazılım**: Python 3.x, OpenCV, cvzone (MediaPipe tabanlı), Arduino C++
 * **Donanım:** Arduino UNO, 2x Servo Motor (SG90), Lazer Modülü
-* **Mekanik:** Doğal kütük taban, el yapımı mukavva zırh ve "Bunker" tasarımı.
+* **Mekanik:** Doğal kütük taban, el yapımı mukavva zırh ve gerçekçi görüntü için doğadan yaprak ve ot.
 
 ## 🚀 Nasıl Çalışır?
 1.  Python kodu, webcam üzerinden yüzü tespit eder.
